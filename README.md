@@ -16,6 +16,7 @@ Hand-wiring this first one before making a PCB
 * 2 4.7K resistors - https://www.adafruit.com/products/2783
 
 ## Case
+* Designed with http://www.keyboard-layout-editor.com/ and http://builder.swillkb.com/
 * Switch and bottom plates from Ponoko - files under plates/ponoko/
 * 2mm screws
 * standoffs
