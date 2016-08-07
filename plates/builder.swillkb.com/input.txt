@@ -1,0 +1,31 @@
+plate layout:
+[{x:2},"@\n2","#\n3","$\n4","%\n5"],
+[{y:-0.75},"+\n=","!\n1"],
+[{y:-0.25,x:2,f:6},"W","E","R","T"],
+[{y:-0.75,a:6,f:3},"Tab",{a:4,f:6},"Q"],
+[{y:-0.25,x:2},"S","D","F","G"],
+[{y:-0.75,a:6,f:3},"Caps<br>Lock",{a:4,f:6},"A"],
+[{y:-0.25,x:2},"X","C","V","B"],
+[{y:-0.75,a:6},"Shift",{a:4},"Z"],
+[{y:-0.25,x:2},"|\n\\",{a:5,f:5},"⇦","⇨",{a:7},""],
+[{y:-0.75,a:6},"Ctrl","Alt"],
+[{r:10,y:-2,x:6.8},"Thumb"]
+
+switch type: _t:1
+
+stabilizer type: _s:1
+
+case type: sandwich
+
+usb cutout: on, 20, 10
+
+mount holes: 6, 2.1, 6
+
+edge padding: on, top: 6, left: 6, right: 6, bottom: 6
+
+plate corners: on, 2
+
+kerf on: .15
+
+line color: off
+
