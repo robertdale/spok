@@ -14,7 +14,8 @@ Hand-wiring this first one before making a PCB
 * 66 key caps
 * Plenty of 22 AWG wire - https://www.adafruit.com/products/288
 
-## Parts for I2C:
+## Parts for Connecting the Halves:
+### Using I2C:
 * 2 TRRS connectors - https://www.digikey.com/product-detail/en/cui-inc/SJ-43514/CP-43514-ND/368146
 * 1 TRRS cable - https://www.amazon.com/YCS-Basics-foot-3-5mm-conductor/dp/B00FJEGXLW/
 * 2 4.7K resistors - https://www.adafruit.com/products/2783
