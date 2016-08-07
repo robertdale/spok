@@ -1,6 +1,10 @@
 # spok
 Split Ortholinear Keyboard
 
+or Staggered Pinky Ortholinear Keyboard
+
+Inspired by Ergodox, Atreus, Kinesis, OLKB, and all the MK makers out there.
+
 # Parts
 Hand-wiring this first one before making a PCB
 
