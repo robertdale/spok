@@ -5,6 +5,9 @@ or Staggered Pinky Ortholinear Keyboard
 
 Inspired by Ergodox, Atreus, Kinesis, OLKB, and all the MK makers out there.
 
+# Layout
+* http://www.keyboard-layout-editor.com/#/gists/147f614c89828fb2ce28e5ff2ff297ad
+
 # Parts
 Hand-wiring this first one before making a PCB
 
